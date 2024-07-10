@@ -180,12 +180,12 @@ alt="top langs"  />
 <hr  width="100%">
 <div>
 <h3  align="center"> 🥰 Connect with me:</h3>
-<p  align="center">
+<-- <p  align="center">
 <a  href="https://discord.com/channels/@me/835488546897920021">
 <img  src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
 alt="connect discord">
 </a>
-</p>
+</p> -->
 <p  align="center">
 ❤️
 <a  href=""  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -195,7 +195,6 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 alt="provjp"  height="30"  width="40"  /></a>
 <a  href="https://www.instagram.com/dartpilot017?igsh=MTJoMG9ocmx5YTlyMQ%3D%3D&utm_source=qr"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 alt="lebathang"  height="30"  width="40"  /></a>
-
 ❤️
 </p>
 </div>
