@@ -37,167 +37,107 @@
 
   
 
-<div  align="center">
-
-<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBlMGZrbzllbGtqZmgyaDR2OHFxaG1ldGkyM3FybmpsN3AwdWdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9JUzVZ1sV8hvO7syrQ/giphy.gif"  alt="phillip gif">
-
-  
-
-</div>
-
-  
-
-<p>
-
-<img  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"  alt="OS-Linux">
-
-  
-
-<img  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"  alt="ubuntu">
-
-  
-
-<img  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  alt="OS-Windown">
-
-  
-
-<img  src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"  alt="windows-11">
-
-</p>
-
-  
-
-<p style="display: flex; flex-direction: row; gap: 1rem">
-
-<h3>Hi 👋 my name is Phillip 😎</h3>
-</a>
-
-<ul>
-
-<li>
-
-🤗 I'm a Software Engineer 🥳
-
-</li>
-
-<li>
-
-👉 I'm a maths student 👨‍🎓
-
-</li>
-
-<li>
-
-📝 And I'm learning JavaScript and NodeJS but I'm very lazy 😅
-
-</li>
-
-<li>
-
-🏡 I'm living in a small city in <code>Nigeria</code> NG 👈 🏙️
-
-</li>
-
-<li>
-
-✍️ I want to learn <code>Data Science</code> and <code>how to write a backend code well</code> 👀
-</li>
-<li>
-💯 I'm very happy when you read my profile but I don't think my profile is professional 🙄
-</li>
-<li>
-💬 I hope you will like my profile 👍
-</li>
-<li>
-❤️ thank you so much for reading it ❤️
-</li>
-</ul>
-</p>
+<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://[your-portfolio-link]">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
+</h2>
 <div align="center">
-<a  href="https://app.daily.dev/dartpilot017"><img  src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8"  width="400"  alt="DartPilot017's Dev Card"/></a>
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 
-  
-  
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-<div>
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
-  
-  
-  
+<details>
+ <summary>
+    <h2> 
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
+    Resume
+    </h2>
+</summary>
 
-<h3>Languages & Tools:</h3>
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
+  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+ </details>
 
-  
+ <details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
+  - **[Your Role] ** at [Company] | [Duration]
+    - [Work Description]
+ </details>
+</details>
 
-<div  style="text-align: left; display: flex; flex-direction: row">
+<details>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+</details>
 
-<img  src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"  alt="C++">
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</details>
 
-<img  src="https://img.shields.io/badge/flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=blue"  alt="Flutter">
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-<img  src="https://img.shields.io/badge/angular-2D9596?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular">
+  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
+</details>
 
-<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  alt="html5">
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
+  </div>
+</details>
 
-<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="JavaScript">
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 
-<img  src="https://img.shields.io/badge/React-4A6F5A?style=for-the-badge&logo=react&logoColor=#70161E"  alt="react">
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
 
-<img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  alt="git">
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
 
-<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap">
+  </div>
+</details>
+### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
+<!--Finish Count Merged PRs-->
 
-<img  src="https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=blue"  alt="Dart">
+<!--Start Merged PRs-->
+1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+<!--Finish Merged PRs-->
+### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
+<!--END_SECTION:activity-->
 
-<img  src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E"  alt="TypeScript">
-</div>
-
-<hr  width="100%">
-<div>
-<p  align=center>
-<div  align=center>
-<a  href="https://github.com/lebathang/lebathang"  title="Go to Source"><img  align="left"  width=390  src="https://pr0vjp-github-readme.vercel.app/api?username=dartpilot017&show_icons=true&theme=midnight-purple&hide_border=true"  /></a>
-<a  href="https://github.com/lebathang/lebathang"  title="Go to Source"><img  align="right"  width=390
-src="https://github-readme-streak-stats.herokuapp.com?user=dartpilot017&theme=midnight-purple&hide_border=true&date_format=j/n/Y"  /></a>
-</div>
-<br><br><br><br><br><br><br><br><br>
-<div  align="center">
-<img  src="https://pr0vjp-github-readme.vercel.app/api/top-langs/?username=dartpilot017&theme=midnight-purple&&hide_border=truelangs_count=8"
-alt="top langs"  />
-</div>
-
-  
-
-<div>
-<p  align="center">
-<a  href="https://github.com/lebathang/QuanLiThuVien"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=QuanLiThuVien"  alt="Readme Card"></a>
-<a  href="https://github.com/lebathang/Webside-An-Vat"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=Webside-An-Vat"  alt="Readme Card"></a>
-<a  href="https://github.com/lebathang/lebathang"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=lebathang&show_icons=true&theme=midnight-purple&hide_border=true&amp;repo=lebathang"  alt="Readme Card"></a>
-</p>
-</div>
-
-<hr  width="100%">
-<div>
-<h3  align="center"> 🥰 Connect with me:</h3>
-<-- <p  align="center">
-<a  href="https://discord.com/channels/@me/835488546897920021">
-<img  src="https://lanyard-profile-readme.vercel.app/api/835488546897920021?animated=true&theme=dark&borderRadius=30px&hideBadges=true&hideDiscrim=true&bg=000000"
-alt="connect discord">
-</a>
-</p> -->
-<p  align="center">
-❤️
-<a  href=""  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-alt="lê bá thắng"  height="30"  width="40"/></a>
-<a  href="https://x.com/dartpilot017?s=21"  target="blank"><img  align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-alt="provjp"  height="30"  width="40"  /></a>
-<a  href="https://www.instagram.com/dartpilot017?igsh=MTJoMG9ocmx5YTlyMQ%3D%3D&utm_source=qr"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-alt="lebathang"  height="30"  width="40"  /></a>
-❤️
-</p>
-</div>
 
   
 
