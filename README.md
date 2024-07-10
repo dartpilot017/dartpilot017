@@ -37,11 +37,11 @@
 
   
 
-<h1 align="center">Hi <img src="https://github.com/YourUsername/YourUsername/blob/main/icons/Hi.gif" width="28px"/>, I'm [Your Name]</h1>
+<h1 align="center">Hi <img align="center" src="https://media1.tenor.com/m/X0Y7rRtvvOYAAAAC/hi-hey.gif" width="28px" height="28px"/>, I'm Phillip Obaze</h1>
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=dartpilot017&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://[your-portfolio-link]">
+  <a href="https://phillipobaze.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </h2>
@@ -51,71 +51,56 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a dedicated Software Developer with 3 years of hands-on experience in crafting seamless mobile apps and dynamic front-end solutions. I thrive on creating intuitive user experiences and believe in continuous learning, embracing new technologies, and fostering collaborative innovation. By leveraging animation strategically, I enhance functionality and user engagement, making every interaction streamlined and purposeful.
+💬 I hope you will like my profile 👍
+❤️ thank you so much for reading it ❤️
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+   
+   <br />  
+   
+   <br/> 
+    
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/dartpilot017/)
+   <br />
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
- </details>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0A0A0A?style=for-the-badge&logo=dart&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/angular-2D9596?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=blue)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23b4c4f4,%23b67148)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23D7D5C6.svg?style=for-the-badge&logo=git&logoColor=#E34F26) 
+![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Contentful](https://img.shields.io/badge/contentful-%2300C4CC.svg?style=for-the-badge&logo=contentful&logoColor=white)
+![postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
-</details>
+# 📊 GitHub Stats:
+<div style="text-align: left; display: flex; flex-direction: row">
+  
+![](https://github-readme-stats.vercel.app/api?username=dartpilot017&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dartpilot017&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dartpilot017&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a  href="https://app.daily.dev/dartpilot017"><img  src="https://api.daily.dev/devcards/1a2854d54a434f67b4ccb6adb3de6c92.png?r=od8"  width="300"  alt="DartPilot017's Dev Card"/></a>
 
-<details>
-  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/[your-handle])
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/[your-handle])
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
-</details>
+</div>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-</details>
-
-<details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
-
-  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
-  - Implemented features to notify users about new opportunities.
-  - Achieved a user base of X, surpassing initial projections.
-</details>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=[YourUsername]&theme=tokyo-night)
-  </div>
-</details>
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:[your-email]">
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dartpilot017&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <details>
   <summary>Click to see a random joke</summary>
@@ -125,18 +110,27 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
   </div>
 </details>
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
 
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-<!--Finish Merged PRs-->
-### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
-<!--END_SECTION:activity-->
+<div align="center">
+
+  # Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+</div>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dartpilot017/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillip-obaze-1968251b7/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@DartPilot017)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300ACED.svg?logo=Twitter&logoColor=white)](https://twitter.com/dartpilot017?s=21&t=QwPF-Zv1xi6cMUelhqK1tQ)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:obazephillip017@gmail.com?subject=Subject%20Here)
+[![Personal Website](https://img.shields.io/badge/PersonalWebsite-%13D2405F.svg?logo=PersonalWebsite&logoColor=white)](https://phillipobaze.vercel.app/)
+
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hasanyalsiz/count.svg?" />
+</div>
+
 
 
   
